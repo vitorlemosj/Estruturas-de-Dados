@@ -1,4 +1,4 @@
-# Estruturas de Dados
+# 🧑‍💻 Estruturas de Dados
 Repositório dedicado aos estudos e implementações da disciplina de Estrutura de Dados.
 
 # 📝 Descrição
