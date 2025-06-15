@@ -1,2 +1,5 @@
-# Estruturas-de-Dados
-Repositório dedicado a disciplica de estrutura de dados.
+# Estruturas de Dados
+Repositório dedicado aos estudos e implementações da disciplina de Estrutura de Dados.
+
+# 📝 Descrição
+Este projeto contém implementações de estruturas de dados fundamentais, desenvolvidas em Java.
